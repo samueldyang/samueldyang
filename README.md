@@ -18,7 +18,7 @@ I'm highly proficient in **Python** and **SQL**, leveraging these tools to desig
 
 * **Programming Languages:** Python, SQL
 * **Data Science/ML:** Machine Learning (e.g., scikit-learn, TensorFlow, PyTorch), Pandas, NumPy
-* **Data Tools:** (If applicable, add tools like Apache Spark, Airflow, Docker, cloud platforms like AWS/GCP/Azure, Tableau, Power BI)
+* **Data Tools:** Apache Spark, Airflow, Docker, cloud platforms like AWS/GCP/Azure, Tableau, Power BI
 * **Soft Skills:** Data Storytelling, Problem-Solving, Teamwork, Cross-functional Collaboration
 
 ---
