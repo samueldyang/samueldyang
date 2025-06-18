@@ -1,6 +1,6 @@
 ## **About Me**
 
-I'm a passionate and results-driven professional specializing in **Data Engineering**, **Data Science**, and **Data Analysis**. My core expertise lies in transforming complex datasets into clear, actionable insights and innovative solutions.
+Based in Valencia, Venezuela, I'm a passionate and results-driven professional specializing in **Data Engineering**, **Data Science**, and **Data Analysis**. My core expertise lies in transforming complex datasets into clear, actionable insights and innovative solutions.
 
 I'm highly proficient in **Python** and **SQL**, leveraging these tools to design robust data architectures, develop predictive **Machine Learning** models, and extract valuable business intelligence.
 
