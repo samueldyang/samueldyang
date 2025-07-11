@@ -25,11 +25,10 @@ I'm highly proficient in **Python** and **SQL**, leveraging these tools to desig
 
 ## **Languages**
 
-* English (Fluent)
-* Spanish (Native)
-* German (Fluent)
-* Cantonese (Fluent)
-
+* Spanish: Native
+* English: C2 - Proficient
+* German: B2 - Upper Intermediate
+* Chinese Cantonese: Native (Spoken Fluency; No Reading/Writing Proficiency)
 ---
 
 ## **What I'm Looking For / Open To**
