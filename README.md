@@ -16,7 +16,7 @@ I'm highly proficient in **Python** and **SQL**, leveraging these tools to desig
 
 ## **Skills & Technologies**
 
-* **Programming Languages:** Python, SQL
+* **Programming Languages:** Python, MySQL
 * **Data Science/ML:** Machine Learning (e.g., scikit-learn, TensorFlow, PyTorch), Pandas, NumPy, Seaborn
 * **Data Tools:** Apache Spark, Airflow, Docker, cloud platforms like AWS/GCP/Azure, Tableau, Power BI, Google Looker Studio
 * **Soft Skills:** Data Storytelling, Problem-Solving, Teamwork, Cross-functional Collaboration
