@@ -1,43 +1,65 @@
-## **About Me**
+# Hi, I'm David 👋 
 
-Based in Madrid, Spain, I'm a passionate and results-driven professional specializing in **Data Engineering**, **Data Science**, and **Data Analysis**. My core expertise lies in transforming complex datasets into clear, actionable insights and innovative solutions.
+**Data Analyst** with a strong focus on Python, SQL, and data-driven decision making. I build end-to-end data solutions, from high-performance processing to AI-powered business applications.
 
-I'm highly proficient in **Python** and **SQL**, leveraging these tools to design robust data architectures, develop predictive **Machine Learning** models, and extract valuable business intelligence.
-
----
-
-## **My Focus Areas**
-
-* **Data Engineering:** Building and optimizing reliable, efficient, and scalable data pipelines.
-* **Data Science & Machine Learning:** Developing predictive models and uncovering patterns to drive informed decisions.
-* **Data Analysis & Storytelling:** Translating complex data findings into compelling narratives that influence strategy.
+📍 **Based in:** Madrid, Spain  
+🚀 **Current Goal:** Open to Junior Data Analyst / Python Developer roles
 
 ---
 
-## **Skills & Technologies**
+## 🚀 Featured Projects
 
-* **Programming Languages:** Python, MySQL
-* **Data Science/ML:** Machine Learning (e.g., scikit-learn, TensorFlow, PyTorch), Pandas, NumPy, Seaborn
-* **Data Tools:** Apache Spark, Airflow, Docker, cloud platforms like AWS/GCP/Azure, Tableau, Power BI, Google Looker Studio
-* **Soft Skills:** Data Storytelling, Problem-Solving, Teamwork, Cross-functional Collaboration
+### 🧠 [Local Intelligence RAG Agent](https://github.com/samueldyang/local-fin-intelligence-RAG)
+*High-security AI system for private document analysis using Retrieval-Augmented Generation (RAG).*
+
+* **Stack:** Python, LangChain, Ollama, ChromaDB, Chainlit.
+* **Impact:** Improved data retrieval efficiency by **90%** via semantic search.
+* **Privacy:** 100% local deployment using **Llama 3**; zero external API calls, ensuring total data confidentiality.
+* **UI:** Developed an interactive interface featuring real-time citations and conversational memory.
+
+### 🤖 Product Analysis RAG System
+*AI-powered system for analyzing customer reviews and extracting actionable insights.*
+
+* **Impact:** Processed **1,000+ unstructured reviews** using advanced NLP techniques.
+* **Insight:** Built a real-time dashboard for querying product sentiment and market trends.
+* **Goal:** Designed to bridge the gap between raw feedback and business decision-making.
+
+### 📊 Inventory Forecasting System
+*Strategic demand planning to optimize supply chain costs.*
+
+* **Result:** Reduced overstock by **18%** using time-series forecasting models.
+* **Focus:** Delivered predictive insights to streamline operational efficiency and capital allocation.
+
+### 👥 Customer Segmentation Model
+*Data-driven marketing optimization using machine learning.*
+
+* **Method:** Identified high-value segments using clustering techniques (K-Means).
+* **Result:** Improved marketing campaign performance by **12%** through targeted segmentation.
 
 ---
 
-## **Languages**
+## 🛠️ Tech Stack
 
-* Spanish: Native
-* English: C2 - Proficient
-* German: B2 - Upper Intermediate
-* Chinese Cantonese: Native (Spoken Fluency; No Reading/Writing Proficiency)
----
-
-## **What I'm Looking For / Open To**
-
-I'm actively seeking challenging roles where I can apply my data expertise to solve real-world problems and contribute to innovative projects. I'm also open to collaborating on open-source initiatives and expanding my knowledge within the data community.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy, Scikit-learn |
+| **Visualization** | Power BI, Looker Studio, Matplotlib |
+| **AI / LLMs** | LangChain, ChromaDB, Ollama |
+| **Dev Tools** | Git, Jupyter, FastAPI, Streamlit |
 
 ---
 
-## **Connect With Me**
+## 🌍 Languages
 
-* **LinkedIn:** (https://www.linkedin.com/in/davidsamuelyangxu/)
-* **Email:** samuelyang98@gmail.com
+* **Spanish:** Native
+* **English:** C2 (Fluent)
+* **Cantonese:** Native (Spoken)
+* **German:** B2
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsamuelyangxu/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelyang98@gmail.com)
