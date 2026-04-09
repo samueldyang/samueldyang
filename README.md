@@ -54,8 +54,8 @@
 
 * **Spanish:** Native
 * **English:** C2 (Fluent)
+* * **German:** B2 (Intermediate)
 * **Cantonese:** Native (Spoken)
-* **German:** B2
 
 ---
 
