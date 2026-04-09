@@ -47,7 +47,10 @@
 | **Visualization** | Power BI, Looker Studio, Matplotlib |
 | **AI / LLMs** | LangChain, ChromaDB, Ollama |
 | **Dev Tools** | Git, Jupyter, FastAPI, Streamlit |
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ---
 
 ## 🌍 Languages
